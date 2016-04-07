@@ -1,4 +1,4 @@
-![Symbold](symbold.png?raw=true)
+![Symbold](https://raw.githubusercontent.com/NicolasPio/symbold/master/symbold.png)
 > Symbols list
 
 
