@@ -1,0 +1,25 @@
+{
+  "name": "symbold",
+  "version": "1.0.0",
+  "description": "Symbols list",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && mocha"
+  },
+  "keywords": [
+    "symbol",
+    "list"
+  ],
+  "author": "Nicolas Pio <nicolaspiof@gmail.com>",
+  "license": "MIT",
+  "xo": {
+    "esnext": true,
+    "envs": [
+		"mocha"
+	]
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "xo": "^0.13.0"
+  }
+}
