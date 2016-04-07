@@ -1,5 +1,4 @@
-<h1 align="center"> ![Symbold](symbold.png?raw=true) </h1>
-
+![Symbold](symbold.png?raw=true)
 > Symbols list
 
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
