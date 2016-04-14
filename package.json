@@ -1,6 +1,6 @@
 {
   "name": "symbold",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Symbols list",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,13 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "xo": "^0.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasPio/symbold.git"
+  },
+  "homepage": "https://github.com/NicolasPio/symbold",
+  "bugs": {
+    "url": "https://github.com/NicolasPio/symbold/issues"
   }
 }
